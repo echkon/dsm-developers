@@ -5,7 +5,7 @@ A Fortran90 code for simulating the direct state measurements
 The homepage of the DSM code is 
 
 The code is hosted on 
-GitHub: https://github.com/echkon/dsm-deverlopers
+GitHub: https://github.com/echkon/dsm-developers
 
 How to install
 ++++++++++++++
