@@ -1,0 +1,22 @@
+
+Input the information of the true state
+
+qu_state 	GHZ_3	# GHZ_3 	# W_3 	# Dicke_4_2
+qu_noise 	0.15		# qu_noise = 0.0 for pure 
+qu_status 	pure		# option for random state only
+
+Input the control parameters
+
+job 		strong
+theta 		0.1	        # multiply by pi		
+num_copies 	10000
+num_iter 	10
+
+Option plot_his for plot histogram random numbers
+or to check the cumulative distribution function
+		
+plot_his  	F
+plot_N 		2000
+check_cdf       T
+plot_min 	0.0
+plot_max 	1.0
